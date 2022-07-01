@@ -1,5 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Taha Kadir KOÇ</h1>
 <h3 align="center">Ben ön uç geliştiriciyim.</h3>
+<h4>Henüz öğrenme aşamasındayım en kısa sürede buralara geri gelicem</4>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=tahakoc&label=Profile%20views&color=0e75b6&style=flat" alt="tahakoc" /> </p>
 
